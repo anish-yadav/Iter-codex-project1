@@ -10,7 +10,7 @@ public class prolem9
                 double c = Math.pow(csquare, 0.5);
                 if (a + b + c == 1000)
                 {
-                    System.out.println(a * b * c);
+                    System.out.println((int)(a * b * c));
                     break;
                 }
             }
