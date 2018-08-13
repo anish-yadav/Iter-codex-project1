@@ -20,7 +20,6 @@ public class problem10
 	    sum = sum +i;
 	 }	
       }	
-      System.out.println("Sum of Prime numbers from 1 to "+n+" are :");
       System.out.println(sum);
    }
 }
